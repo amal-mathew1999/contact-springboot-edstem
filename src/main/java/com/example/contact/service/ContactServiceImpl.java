@@ -12,7 +12,7 @@ import java.util.List;
 
 @Service
 public class ContactServiceImpl implements ContactService {
-
+    //test
     @Autowired
     private ContactRepository contactRepository;
 
